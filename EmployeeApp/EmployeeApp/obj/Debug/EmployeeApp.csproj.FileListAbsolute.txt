@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\PRG251\2022-07-19\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\User\Desktop\PRG251\2022-07-19\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\User\Desktop\PRG251\2022-07-19\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\User\Desktop\PRG251\2022-07-19\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PRG251\2022-07-19\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PRG251\2022-07-19\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\User\Desktop\PRG251\2022-07-19\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\user-pc\Downloads\EmployeeApp\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\user-pc\Downloads\EmployeeApp\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Downloads\EmployeeApp\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\user-pc\Downloads\EmployeeApp\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\user-pc\Downloads\EmployeeApp\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\user-pc\Downloads\EmployeeApp\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\user-pc\Downloads\EmployeeApp\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
